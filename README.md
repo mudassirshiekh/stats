@@ -36,6 +36,7 @@ Stats is an application that allows you to monitor your macOS system.
  - Multiple time zone clock
 
 ## FAQs
+## By Mudassir Alam
 
 ### How do you change the order of the menu bar icons?
 macOS decides the order of the menu bar items not `Stats` - it may change after the first reboot after installing Stats.
